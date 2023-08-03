@@ -11,3 +11,9 @@ npm run start:dev
 ```bash
 next g co
 ```
+
+## generate service
+
+```bash
+nest g s
+```
