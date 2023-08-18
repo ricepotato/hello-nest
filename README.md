@@ -17,3 +17,15 @@ next g co
 ```bash
 nest g s
 ```
+
+## install validator
+
+```bash
+npm install class-validator class-transformer
+```
+
+## mapped-type
+
+```bash
+npm install @nestjs/mapped-types
+```
